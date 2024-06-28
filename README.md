@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![download](https://github.com/ernesto-official02/ernesto-official02/assets/167057735/87b3ec7d-34ea-4983-a19a-9e34ceea506d)
+
 <!---
 ernesto-official02/ernesto-official02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
