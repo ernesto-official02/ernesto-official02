@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![download](https://github.com/ernesto-official02/ernesto-official02/assets/167057735/87b3ec7d-34ea-4983-a19a-9e34ceea506d)
+![Aspiring full Stack developer](https://github.com/ernesto-official02/ernesto-official02/assets/167057735/c9661af8-eba9-41e3-a991-3373fefd542b)
 
 <!---
 ernesto-official02/ernesto-official02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
