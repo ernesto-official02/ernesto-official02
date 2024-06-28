@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg
 <!---
 ernesto-official02/ernesto-official02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![HI ! that’s me Ernest Anmol](https://github.com/ernesto-official02/ernesto-official02/assets/167057735/95d25cae-fb74-4ddb-b829-1e3006b315a5)
